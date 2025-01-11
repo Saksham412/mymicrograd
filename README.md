@@ -1,6 +1,4 @@
-# Save the updated README content as a markdown file
-readme_content = """
-# MicroGrad - A Simple Autograd Engine
+# MyMicroGrad - A Simple Autograd Engine inspired by Andrej Karpathy's micrograd
 
 **MicroGrad** is a basic automatic differentiation library built from scratch in Python. It helps in understanding how gradients are computed in neural networks.
 
