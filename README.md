@@ -1,6 +1,6 @@
 # MyMicroGrad - A Simple Autograd Engine inspired by Andrej Karpathy's micrograd
 
-**MicroGrad** is a basic automatic differentiation library built from scratch in Python. It helps in understanding how gradients are computed in neural networks.
+**MyMicroGrad** is a basic automatic differentiation library built from scratch in Python. It helps in understanding how gradients are computed in neural networks.
 
 ## Features
 
@@ -18,6 +18,6 @@
 ### Run the Notebook
 
 ```bash
-git clone <repository_url>
-cd micrograd
+git clone https://github.com/Saksham412/mymicrograd
+cd mymicrograd
 jupyter notebook mymicrograd.ipynb
